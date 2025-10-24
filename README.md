@@ -44,26 +44,26 @@
 - Otimização de código  
 
 ### 🔹 Data e Hora
-- Manipulação de datas e horários  
+- Manipulação de datas e horários
 
 ### 🔹 Manipulação de Arquivos
-- Leitura, escrita e gerenciamento  
+- Leitura, escrita e gerenciamento
 
 ### 🔹 Gerenciamento de Pacotes e Boas Práticas
-- Virtualenv, pip e organização de projetos  
-- Boas práticas (PEP8)  
+- Virtualenv, pip e organização de projetos
+- Boas práticas (PEP8)
 
 ### 🔹 Banco de Dados
-- Conexão e manipulação de bancos relacionais e não relacionais  
+- Conexão e manipulação de bancos relacionais e não relacionais
 
 ### 🔹 Desenvolvimento de APIs com Flask
-- Criação de APIs REST simples e intermediárias  
+- Criação de APIs REST simples e intermediárias
 
 ### 🔹 Desenvolvimento Fullstack com Django
-- Aplicações web completas com backend e frontend integrados  
+- Aplicações web completas com backend e frontend integrados
 
 ### 🔹 APIs Assíncronas com FastAPI
-- APIs performáticas e assíncronas  
+- APIs performáticas e assíncronas
 
 ---
 
