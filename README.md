@@ -11,7 +11,7 @@
 | Módulo | Status |
 |--------|--------|
 | Fundamentos | ![Concluído](https://img.shields.io/badge/Fundamentos-Concluído-brightgreen) |
-| Estrutura de Dados | ![Concluído](https://img.shields.io/badge/Estrutura%20de%20Dados-Concluído-brightgreen) |
+| Estrutura de Dados | ![Concluído](https://img.shields.io/badge/Estrutura-de-Dados-Concluído-brightgreen) |
 | Programação Orientada a Objetos | ![A iniciar](https://img.shields.io/badge/POO-A%20Iniciar-lightgrey) |
 | Decoradores, Iteradores e Geradores | ![A iniciar](https://img.shields.io/badge/Decoradores-A%20Iniciar-lightgrey) |
 | Data e Hora | ![A iniciar](https://img.shields.io/badge/Data%20e%20Hora-A%20Iniciar-lightgrey) |
