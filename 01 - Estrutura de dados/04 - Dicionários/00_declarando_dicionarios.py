@@ -1,8 +1,11 @@
-pessoa = {"nome": "Guilherme", "idade": 28}
+pessoa = {"nome": "Crislei", "idade": 39}
 print(pessoa)
 
-pessoa = dict(nome="Guilherme", idade=28)
+pessoa = dict(nome="Crisei", idade=39)
 print(pessoa)
 
-pessoa["telefone"] = "3333-1234"  # {"nome": "Guilherme", "idade": 28, "telefone": "3333-1234"}
+pessoa["telefone"] = "99901-4668"  # {"nome": "Crislei", "idade": 39, "telefone": "99901-4668"}
+print(pessoa)
+
+pessoa["nome"] = "Crislei Jenuino"  # {"nome": "Crislei Jenuino", "idade": 39, "telefone": "99901-4668"}
 print(pessoa)
