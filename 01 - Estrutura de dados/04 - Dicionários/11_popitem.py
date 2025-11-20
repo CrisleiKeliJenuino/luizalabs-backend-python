@@ -1,6 +1,6 @@
-contatos = {"guilherme@gmail.com": {"nome": "Guilherme", "telefone": "3333-2221"}}
+contatos = {"chryslleykelly@gmail.com": {"nome": "Crislei Keli", "telefone": "99901-4668"}}
 
-resultado = contatos.popitem()  # ('guilherme@gmail.com', {'nome': 'Guilherme', 'telefone': '3333-2221'})
+resultado = contatos.popitem()  # ('chryslleykelly@gmail.com', {'nome': 'Crislei Keli', 'telefone': '99901-4668'})
 print(resultado)
 
 # contatos.popitem()  # KeyError

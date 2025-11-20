@@ -5,13 +5,13 @@ contatos = {
     "melaine@gmail.com": {"nome": "Melaine", "telefone": "3333-7766"},
 }
 
-resultado = "guilherme@gmail.com" in contatos  # True
+resultado = "chryslleykelly@gmail.com" in contatos  # True
 print(resultado)
 
 resultado = "megui@gmail.com" in contatos  # False
 print(resultado)
 
-resultado = "idade" in contatos["guilherme@gmail.com"]  # False
+resultado = "idade" in contatos["chryslleykelly@gmail.com"]  # False
 print(resultado)
 
 resultado = "telefone" in contatos["giovanna@gmail.com"]  # True

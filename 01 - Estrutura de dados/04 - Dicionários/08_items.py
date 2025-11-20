@@ -1,4 +1,4 @@
-contatos = {"guilherme@gmail.com": {"nome": "Guilherme", "telefone": "3333-2221"}}
+contatos = {"chryslleykelly@gmail.com": {"nome": "Crislei Keli", "telefone": "99901-4668"}}
 
-resultado = contatos.items()  # dict_items([('guilherme@gmail.com', {'nome': 'Guilherme', 'telefone': '3333-2221'})])
+resultado = contatos.items()  # dict_items([('chryslleykelly@gmail.com', {'nome': 'Crislei Keli', 'telefone': '99901-4668'})])
 print(resultado)

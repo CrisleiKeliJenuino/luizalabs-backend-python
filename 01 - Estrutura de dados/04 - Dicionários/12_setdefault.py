@@ -1,7 +1,7 @@
-contato = {"nome": "Guilherme", "telefone": "3333-2221"}
+contato = {"nome": "Crislei Keli", "telefone": "99901-4668"}
 
-contato.setdefault("nome", "Giovanna")  # "Guilherme"
-print(contato)  # {'nome': 'Guilherme', 'telefone': '3333-2221'}
+contato.setdefault("nome", "Geovanna")  # "Crislei Keli"
+print(contato)  # {'nome': 'Crislei Keli', 'telefone': '99901-4668'}
 
-contato.setdefault("idade", 28)  # 28
-print(contato)  # {'nome': 'Guilherme', 'telefone': '3333-2221', 'idade': 28}
+contato.setdefault("idade", 39)  # 39
+print(contato)  # {'nome': 'Crislei Keli', 'telefone': '99901-4668', 'idade': 39}

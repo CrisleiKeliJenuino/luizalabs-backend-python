@@ -1,8 +1,8 @@
-contatos = {"guilherme@gmail.com": {"nome": "Guilherme", "telefone": "3333-2221"}}
+contatos = {"chryslley": {"nome": "Crislei", "telefone": "99901-4668"}}
 
 copia = contatos.copy()
-copia["guilherme@gmail.com"] = {"nome": "Gui"}
+copia["chryslleykelly@gmail.com"] = {"nome": "Cris"}
 
-print(contatos["guilherme@gmail.com"])  # {"nome": "Guilherme", "telefone": "3333-2221"}
+print(contatos["Crislei"])  # {"nome": "Crislei", "telefone": "99901-4668"}
 
-print(copia["guilherme@gmail.com"])  # {"nome": "Gui"}
+print(copia["chryslleykelly@gmail.com"])  # {"nome": "Cris"}

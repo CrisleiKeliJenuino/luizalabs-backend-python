@@ -9,6 +9,6 @@ resultado = contatos.get("chave", {})  # {}
 print(resultado)
 
 resultado = contatos.get(
-    "guilherme@gmail.com", {}
-)  # {"guilherme@gmail.com": {"nome": "Guilherme", "telefone": "3333-2221"}
+    "chryslleykelly@gmail.com", {}
+)  # {"chryslleykelly@gmail.com": {"nome": "Crislei Keli", "telefone": "99901-4668"}}
 print(resultado)
